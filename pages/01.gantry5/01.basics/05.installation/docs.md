@@ -191,7 +191,7 @@ You can install any theme that is listed in Grav's theme directory using the Gra
 
 We will use Helium as an example since it is a freely-available default theme for Gantry 5 on Grav.
 
-All you need to do to take advantage of this feature is to open or access a command prompt on your server, navigate to the root of your Grav website, and enter the line `bin/gpm install helium`. This will initiate the installation process. You can see a video of the GPM installer in action above.
+All you need to do to take advantage of this feature is to open or access a command prompt on your server, navigate to the root of your Grav website, and enter the line `bin/gpm install g5_helium`. This will initiate the installation process. You can see a video of the GPM installer in action above.
 
 Once you have initiated and confirmed installation, the Helium theme should be available to you.
 
